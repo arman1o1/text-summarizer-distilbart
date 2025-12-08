@@ -29,7 +29,8 @@ Built with **DistilBART** for summarization, **BERT** for entity recognition, an
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/text-summarizer-ner.git
+git clone https://github.com/arman1o1/text-summarizer-distilbart.git
+cd text-summarizer-distilbart
 cd text-summarizer-ner
 ```
 

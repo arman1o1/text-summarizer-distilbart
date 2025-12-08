@@ -9,7 +9,7 @@ A fast, privacy-focused AI application that automatically generates concise summ
 ## App Demo Screenshot
 ![App Demo Interface](demo.png)
 
-## 🚀 Features
+##  Features
 
 *   **100% Offline:** Runs entirely locally on your machine after the initial model download. Your data never leaves your computer.
 *   **No API Keys:** Does not require a Hugging Face token or OpenAI key. Completely free to run.
@@ -54,7 +54,7 @@ Open that link in your browser to use the app.
 *   **Framework:** PyTorch & Transformers
 *   **Logic:** The app uses a Hugging Face `pipeline`. It downloads the model weights (~1.2GB) to your local cache. The summarization logic is set to `do_sample=False` to ensure mathematically optimal summaries rather than random text generation.
 
-## 📄 License
+##  License
 
 The code in this repository is licensed under the [MIT License](LICENSE).
 The model used (`distilbart-cnn-12-6`) is licensed under **Apache 2.0**.

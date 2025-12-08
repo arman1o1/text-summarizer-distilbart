@@ -4,7 +4,7 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Gradio](https://img.shields.io/badge/Gradio-UI-orange?style=for-the-badge&logo=gradio&logoColor=white)
 
-A fast, privacy-focused AI application that automatically generates concise summaries from long articles or text documents. Built using Python, the **DistilBART** model, and **Gradio** for a clean, split-view interface.
+A fast application that automatically generates concise summaries from long articles or text documents. Built using Python, the **DistilBART** model, and **Gradio** for a clean, split-view interface.
 
 ## App Demo Screenshot
 ![App Demo Interface](demo.png)

@@ -21,8 +21,8 @@ A fast application that automatically generates concise summaries from long arti
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/offline-text-summarizer.git
-cd offline-text-summarizer
+git clone https://github.com/arman1o1/text-summarizer-distilbart.git
+cd text-summarizer-distilbart
 ```
 
 ### 2. Install Dependencies

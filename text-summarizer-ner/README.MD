@@ -40,7 +40,7 @@ It is recommended to use a virtual environment (venv or conda).
 pip install -r requirements.txt
 ```
 
-*Note: If `requirements.txt` is missing, install the core packages manually:*
+*Note: If `requirements.txt` does not work, install the core packages manually:*
 ```bash
 pip install gradio transformers torch tf-keras
 ```

@@ -29,7 +29,7 @@ Built with Python, **DistilBART**, and **Gradio** for a clean, split-view browse
 ## 🛠️ Tech Stack
 
 * **UI:** Gradio
-* **Model:** `sshleifer/distilbart-cnn-12-6`
+* **Model:** [`sshleifer/distilbart-cnn-12-6`](https://huggingface.co/sshleifer/distilbart-cnn-12-6)
 * **Task:** Abstractive Text Summarization
 * **Framework:** PyTorch + Transformers
 

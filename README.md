@@ -87,5 +87,3 @@ Open the link in your browser to start summarizing text.
 The application code in this repository is licensed under the **MIT License**.
 
 The model used (`distilbart-cnn-12-6`) is licensed under **Apache 2.0**.
-```
-```
